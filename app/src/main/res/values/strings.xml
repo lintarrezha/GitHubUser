@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="searchbar_hint">Search</string>
+    <string name="username">Username</string>
+
+    <string name="tab_Following">Following</string>
+    <string name="tab_Followers">Followers</string>
+
+    <string name="follower">Followers: %1$d</string>
+    <string name="following">Following: %1$d</string>
+
+
+    <string name="no_data_available">No Data Available</string>
+    <string name="tv_jml_followers">Followers</string>
+    <string name="tv_jml_following">Following</string>
+</resources>
